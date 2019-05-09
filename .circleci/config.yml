@@ -1,9 +1,9 @@
 aliases:
   - &restore-npm-cache
-    key: v1-dependencies-{{ checksum "package-lock.json" }}
+    key: v1-dependencies-{{ checksum "yarn.lock" }}
     name: Restoring node_modules/ cache
   - &save-npm-cache
-    key: v1-dependencies-{{ checksum "package-lock.json" }}
+    key: v1-dependencies-{{ checksum "yarn.lock" }}
     name: Saving node_modules/ cache
     paths:
       - node_modules

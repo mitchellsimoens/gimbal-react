@@ -1,5 +1,6 @@
 # Gimbal React Output Plugin
 
+[![CircleCI](https://circleci.com/gh/mitchellsimoens/gimbal-react/tree/master.svg?style=svg&circle-token=959f8a443451769b601e620bac4e8ae5de11cd46)](https://circleci.com/gh/mitchellsimoens/gimbal-react/tree/master)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](./LICENSE)
 
