@@ -18,7 +18,7 @@ interface CommandOptions {
 const generateApp = (to: string): Promise<void> => {
   console.log(`Copying app template to ${to}`);
 
-  return copydirAsync(path.join(__dirname, 'template'), to);
+  return copydirAsync(path.join(__dirname, '..', 'template'), to);
 };
 
 /* eslint-disable-next-line @typescript-eslint/no-explicit-any */

@@ -1,0 +1,35 @@
+table {
+  border: 1px solid #cbcbcb;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+thead {
+  background-color: rgb(224, 224, 224);
+}
+
+td, th {
+  padding: 8px 16px;
+}
+
+td {
+  border-bottom: 1px solid #cbcbcb;
+  text-align: center;
+}
+
+td:first-child {
+  text-align: left;
+}
+
+tbody > tr:last-child > td {
+  border-bottom: 0;
+}
+
+.fail td {
+  color: red;
+  font-weight: bold;
+}
+
+.success td {
+  color: green;
+}
