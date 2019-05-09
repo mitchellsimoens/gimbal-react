@@ -54,6 +54,9 @@
     "audit",
     "react"
   ],
+  "peerDependencies": {
+    "@modus/gimbal": ">= 1.0.6"
+  },
   "dependencies": {
     "copy-dir": "1.0.0",
     "mkdirp": "0.5.1",
