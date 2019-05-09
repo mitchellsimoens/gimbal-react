@@ -46,7 +46,6 @@ jobs:
       - checkout
       - restore_cache: *restore-npm-cache
       - run: yarn lint
-      - run: yarn build:check
 
   publish:
     <<: *defaults
