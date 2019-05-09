@@ -42,6 +42,18 @@
   "publishConfig": {
     "access": "public"
   },
+  "keywords": [
+    "web-performance",
+    "ci",
+    "performance",
+    "webdevelopment",
+    "javascript",
+    "typescript",
+    "lighthouse",
+    "bundlesize",
+    "audit",
+    "react"
+  ],
   "dependencies": {
     "copy-dir": "1.0.0",
     "mkdirp": "0.5.1",
