@@ -11,6 +11,8 @@
 
 A plugin that creates a React app to consume [Gimbal's](https://github.com/ModusCreateOrg/gimbal) report.
 
+![gimbal-react example output][example-screenshot]
+
 ## Installation
 
 ```sh
@@ -100,3 +102,5 @@ Due to how npm and yarn install node dependencies, if it detects a dependency be
 ## Licensing
 
 This project is [MIT licensed](./LICENSE).
+
+[example-screenshot]: ./gimbal-react.png
