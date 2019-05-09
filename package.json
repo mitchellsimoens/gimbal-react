@@ -1,6 +1,6 @@
 {
   "name": "gimbal-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Create a React application to show the output from @modus/gimbal",
   "main": "lib/index.js",
   "types": "./lib/index.d.ts",
